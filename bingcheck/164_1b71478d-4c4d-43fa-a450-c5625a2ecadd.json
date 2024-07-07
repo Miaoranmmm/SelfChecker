@@ -1,0 +1,637 @@
+{
+  "1b71478d-4c4d-43fa-a450-c5625a2ecadd": {
+    "query": "What is the process and criteria for selecting the winners of the Pulitzer Prize, and how has this evolved over time since its inception in 1917?",
+    "response": "The Pulitzer Prize is an award for achievements in newspaper, magazine and online journalism, literature, and musical composition in the United States[^5^]. It was established in 1917 by provisions in the will of American (Hungarian-born) Joseph Pulitzer who had made his fortune as a newspaper publisher[^5^].\n\nTo enter the Pulitzer Prize, one has to fill out an application, pay an entry fee of around $75 and send four copies of the book to the committee overseeing the awards[^4^]. The author, the publisher or a fan can send it[^4^]. Entries must fit in at least one of the specific prize categories, and cannot simply gain entrance for being literary or musical[^5^].\n\nThe Pulitzer Prize Board appoints juries to select the best works among the entries in each category. The juries usually consist of three to five members who are experts in their fields[^3^]. The juries nominate three finalists in each category and send their recommendations to the Pulitzer Prize Board[^3^]. The Board then votes on the final winners with a majority vote deciding who the winner is[^1^].\n\nThe Pulitzer Prize has evolved over time since its inception in 1917. Some of the changes include:\n\n- Adding new categories such as photography, criticism, editorial cartooning, feature writing, commentary, biography, history, poetry, music and drama[^5^].\n- Changing the names and definitions of some categories such as public service, investigative reporting, explanatory reporting, national reporting, international reporting and breaking news reporting[^5^].\n- Allowing online-only publications to enter some categories since 2009[^2^].\n- Allowing magazines and magazine websites to enter some categories since 2016[^2^].\n- Allowing books that are self-published or published by non-traditional publishers to enter some categories since 2017[^2^].\n\nI hope this answers your question.\ud83d\ude0a",
+    "adaptiveCards": [
+      {
+        "type": "AdaptiveCard",
+        "version": "1.0",
+        "body": [
+          {
+            "type": "TextBlock",
+            "text": "[1]: https://bing.com/search?q=Pulitzer+Prize+process+and+criteria \"How Novels are Chosen for the Pulitzer Prize - Medium\"\n[2]: https://www.pulitzer.org/page/frequently-asked-questions \"Frequently Asked Questions - The Pulitzer Prizes\"\n[3]: https://www.pulitzer.org/page/how-enter \"How to Enter - The Pulitzer Prizes\"\n[4]: https://medium.com/renaissance-men-and-women/how-novels-are-chosen-for-the-pulitzer-prize-61341b2d65de \"How Novels are Chosen for the Pulitzer Prize - Medium\"\n[5]: https://en.wikipedia.org/wiki/Pulitzer_Prize \"Pulitzer Prize - Wikipedia\"\n[6]: https://becomeawritertoday.com/what-is-the-pulitzer-prize/ \"What Is The Pulitzer Prize? A Guide For Writers\"\n\nThe Pulitzer Prize is an award for achievements in newspaper, magazine and online journalism, literature, and musical composition in the United States[^1^][5]. It was established in 1917 by provisions in the will of American (Hungarian-born) Joseph Pulitzer who had made his fortune as a newspaper publisher[^1^][5].\n\nTo enter the Pulitzer Prize, one has to fill out an application, pay an entry fee of around $75 and send four copies of the book to the committee overseeing the awards[^2^][4]. The author, the publisher or a fan can send it[^2^][4]. Entries must fit in at least one of the specific prize categories, and cannot simply gain entrance for being literary or musical[^1^][5].\n\nThe Pulitzer Prize Board appoints juries to select the best works among the entries in each category. The juries usually consist of three to five members who are experts in their fields[^3^][3]. The juries nominate three finalists in each category and send their recommendations to the Pulitzer Prize Board[^3^][3]. The Board then votes on the final winners with a majority vote deciding who the winner is[^4^][1].\n\nThe Pulitzer Prize has evolved over time since its inception in 1917. Some of the changes include:\n\n- Adding new categories such as photography, criticism, editorial cartooning, feature writing, commentary, biography, history, poetry, music and drama[^1^][5].\n- Changing the names and definitions of some categories such as public service, investigative reporting, explanatory reporting, national reporting, international reporting and breaking news reporting[^1^][5].\n- Allowing online-only publications to enter some categories since 2009[^5^][2].\n- Allowing magazines and magazine websites to enter some categories since 2016[^5^][2].\n- Allowing books that are self-published or published by non-traditional publishers to enter some categories since 2017[^5^][2].\n\nI hope this answers your question.\ud83d\ude0a\n",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "size": "small",
+            "text": "Learn more: [1. en.wikipedia.org](https://en.wikipedia.org/wiki/Pulitzer_Prize) [2. medium.com](https://medium.com/renaissance-men-and-women/how-novels-are-chosen-for-the-pulitzer-prize-61341b2d65de) [3. www.pulitzer.org](https://www.pulitzer.org/page/how-enter) [4. bing.com](https://bing.com/search?q=Pulitzer+Prize+process+and+criteria) [5. www.pulitzer.org](https://www.pulitzer.org/page/frequently-asked-questions) [6. becomeawritertoday.com](https://becomeawritertoday.com/what-is-the-pulitzer-prize/)",
+            "wrap": true
+          }
+        ]
+      }
+    ],
+    "sourceAttributions": [
+      {
+        "providerDisplayName": "Pulitzer Prize - Wikipedia",
+        "seeMoreUrl": "https://en.wikipedia.org/wiki/Pulitzer_Prize",
+        "searchQuery": "Pulitzer Prize process and criteria"
+      },
+      {
+        "providerDisplayName": "How Novels are Chosen for the Pulitzer Prize - Medium",
+        "seeMoreUrl": "https://medium.com/renaissance-men-and-women/how-novels-are-chosen-for-the-pulitzer-prize-61341b2d65de",
+        "searchQuery": "Pulitzer Prize process and criteria"
+      },
+      {
+        "providerDisplayName": "How to Enter - The Pulitzer Prizes",
+        "seeMoreUrl": "https://www.pulitzer.org/page/how-enter",
+        "searchQuery": "Pulitzer Prize process and criteria"
+      },
+      {
+        "providerDisplayName": "How Novels are Chosen for the Pulitzer Prize - Medium",
+        "seeMoreUrl": "https://bing.com/search?q=Pulitzer+Prize+process+and+criteria",
+        "searchQuery": "Pulitzer Prize process and criteria"
+      },
+      {
+        "providerDisplayName": "Frequently Asked Questions - The Pulitzer Prizes",
+        "seeMoreUrl": "https://www.pulitzer.org/page/frequently-asked-questions",
+        "searchQuery": "Pulitzer Prize process and criteria"
+      },
+      {
+        "providerDisplayName": "What Is The Pulitzer Prize? A Guide For Writers",
+        "seeMoreUrl": "https://becomeawritertoday.com/what-is-the-pulitzer-prize/",
+        "searchQuery": "Pulitzer Prize process and criteria"
+      }
+    ],
+    "fact-checking": {
+      "subclaims": [
+        "The Pulitzer Prize is an award for achievements in newspaper, magazine and online journalism, literature, and musical composition in the United States.",
+        "The Pulitzer Prize was established in 1917 by provisions in the will of American (Hungarian-born) Joseph Pulitzer who had made his fortune as a newspaper publisher.",
+        "The Pulitzer Prize has evolved over time since its inception in 1917.",
+        "Online-only publications have been allowed to enter some categories since 2009.",
+        "Magazines and magazine websites have been allowed to enter some categories since 2016.",
+        "Books that are self-published or published by non-traditional publishers have been allowed to enter some categories since 2017."
+      ],
+      "queries": [
+        "Pulitzer Prize definition and categories",
+        "Pulitzer Prize establishment Joseph Pulitzer will provisions 1917",
+        "Pulitzer Prize evolution history new categories added",
+        "2009 Pulitzer Prize online-only publications allowed categories",
+        "Magazines and magazine websites allowed to enter Pulitzer Prize categories since 2016",
+        "Pulitzer Prize self-published books non-traditional publishers allowed categories 2017"
+      ],
+      "search_results": {
+        "The Pulitzer Prize is an award for achievements in newspaper, magazine and online journalism, literature, and musical composition in the United States.": [
+          {
+            "title": "Pulitzer Prize - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize",
+            "content": [
+              "Pulitzer Prize - Wikipedia",
+              "The Pulitzer Prize (/\u02c8p\u028al\u026ats\u0259r/[1]) is an award administered by Columbia University for achievements in newspaper, magazine, online journalism, literature, and musical composition within the United States.",
+              "It was established in 1917 by provisions in the will of Joseph Pulitzer, who had made his fortune as a newspaper publisher.",
+              "[2] As of 2023, prizes are awarded annually in twenty-three categories.",
+              "[3] In twenty-two of the categories, each winner receives a certificate and a US$15,000 cash award (raised from $10,000 in 2017).",
+              "[4] The winner in the public service category is awarded a gold medal.",
+              "[5][6] The Pulitzer Prize does not automatically consider all applicable works in the media, but only those that have specifically been entered.",
+              "(Each entry must be accompanied by a $75 handling fee.)",
+              "Entries must fit in at least one of the specific prize categories, and cannot simply gain entrance for being literary or musical.",
+              "Works can also be entered only in a maximum of two categories, regardless of their properties.",
+              "[7] Each year, more than 100 jurors are selected by the Pulitzer Prize Board to serve on 22 separate juries for the 23 award categories;",
+              "one jury makes recommendations for both photography awards.",
+              "Most juries consist of five members, except for those for Public Service, Investigative Reporting, Explanatory Reporting, Feature Writing, Commentary and Audio Reporting categories, which have seven members;",
+              "however, all book juries have five members.",
+              "[2] For each award category, a jury makes three nominations.",
+              "The board selects the winner by majority vote from the nominations, or bypasses the nominations and selects a different entry following a 75 percent majority vote.",
+              "The board can also vote to issue no award.",
+              "The board and journalism jurors are not paid for their work;",
+              "however, the jurors in letters, music, and drama receive honoraria for the year.",
+              "[2] Anyone whose work has been submitted is called an entrant.",
+              "The jury selects a group of nominated finalists and announces them, together with the winner for each category.",
+              "However, some journalists and authors who were only submitted, but not nominated as finalists, still claim to be Pulitzer nominees in promotional material.",
+              "The Pulitzer board has cautioned entrants against claiming to be nominees.",
+              "The Pulitzer Prize website's Frequently Asked Questions section describes their policy as follows: \"Nominated Finalists are selected by the Nominating Juries for each category as finalists in the competition.",
+              "The Pulitzer Prize Board generally selects the Pulitzer Prize Winners from the three nominated finalists in each category.",
+              "The names of nominated finalists have been announced only since 1980.",
+              "Work that has been submitted for Prize consideration but not chosen as either a nominated finalist or a winner is termed an entry or submission.",
+              "No information on entrants is provided.",
+              "Since 1980, when we began to announce nominated finalists, we have used the term 'nominee' for entrants who became finalists.",
+              "We discourage someone saying he or she was 'nominated' for a Pulitzer simply because an entry was sent to us.\"",
+              "[8] Bill Dedman of NBC News, the recipient of the 1989 investigative reporting prize, pointed out in 2012 that financial journalist Betty Liu was described as \"Pulitzer Prize\u2013Nominated\" in her Bloomberg Television advertising and the jacket of her book, while National Review writer Jonah Goldberg made similar claims of \"Pulitzer nomination\" to promote his books.",
+              "Dedman wrote, \"To call that submission a Pulitzer 'nomination' is like saying that Adam Sandler is an Oscar nominee if Columbia Pictures enters That's My Boy in the Academy Awards.",
+              "Many readers realize that the Oscars don't work that way\u2014the studios don't pick the nominees.",
+              "It's just a way of slipping 'Academy Awards' into a bio.",
+              "The Pulitzers also don't work that way, but fewer people know that.\"",
+              "[9] Nominally, the Pulitzer Prize for Public Service is awarded only to news organizations, not individuals.",
+              "In rare instances, contributors to the entry are singled out in the citation in a manner analogous to individual winners.",
+              "[10][11] Journalism awards may be awarded to individuals or newspapers or newspaper staffs;",
+              "infrequently, staff Prize citations also distinguish the work of prominent contributors.",
+              "[12] Newspaper publisher Joseph Pulitzer gave money in his will to Columbia University to launch a journalism school and establish the Pulitzer Prize.",
+              "It allocated $250,000 to the prize and scholarships.",
+              "[13] He specified \"four awards in journalism, four in letters and drama, one in education, and four traveling scholarships.\"",
+              "[2] After his death on October 29, 1911, the first Pulitzer Prizes were awarded June 4, 1917 (they are now announced in April).",
+              "The Chicago Tribune under the control of Colonel Robert R.",
+              "McCormick felt that the Pulitzer Prize was nothing more than a 'mutual admiration society' and not to be taken seriously;",
+              "the paper refused to compete for the prize during McCormick's tenure up until 1961.",
+              "[14][15] Awards are made in categories relating to journalism, arts, letters and fiction.",
+              "Reports and photographs by United States\u2013based newspapers, magazines and news organizations (including news websites) that \"[publish] regularly\"[16] are eligible for the journalism prize.",
+              "Beginning in 2007, \"an assortment of online elements will be permitted in all journalism categories except for the competition's two photography categories, which will continue to restrict entries to still images.\"",
+              "[17] In December 2008, it was announced that for the first time content published in online-only news sources would be considered.",
+              "[18] Although certain winners with magazine affiliations (most notably Moneta Sleet Jr.)",
+              "were allowed to enter the competition due to eligible partnerships or concurrent publication of their work in newspapers, the Pulitzer Prize Advisory Board and the Pulitzer Prize Board historically resisted the admission of magazines into the competition, resulting in the formation of the National Magazine Awards at the Columbia Journalism School in 1966.",
+              "In 2015, magazines were allowed to enter for the first time in two categories (Investigative Reporting and Feature Writing).",
+              "By 2016, this provision had expanded to three additional categories (International Reporting, Criticism and Editorial Cartooning).",
+              "[19] That year, Kathryn Schulz (Feature Writing) and Emily Nussbaum (Criticism) of The New Yorker became the first magazine affiliates to receive the prize under the expanded eligibility criterion.",
+              "[20] In October 2016, magazine eligibility was extended to all journalism categories.",
+              "[21] Hitherto confined to the local reporting of breaking news, the Breaking News Reporting category was expanded to encompass all domestic breaking news events in 2017.",
+              "[22] Definitions of Pulitzer Prize categories as presented in the December 2017 Plan of Award:[23] There are seven categories in letters and drama: In 2020, the Audio Reporting category was added.",
+              "The first prize in this category was awarded to \"The Out Crowd\", an episode of the public radio program This American Life.",
+              "In the second year, the Pulitzer was awarded for the NPR podcast No Compromise.",
+              "[24] There is one prize given for music: There have been dozens of Special Citations and Awards: more than ten each in Arts, Journalism, and Letters, and five for Pulitzer Prize service, most recently to Joseph Pulitzer, Jr.",
+              "in 1987.",
+              "In addition to the prizes, Pulitzer Travelling Fellowships are awarded to four outstanding students of the Graduate School of Journalism as selected by the faculty.",
+              "Over the years, awards have been discontinued either because the field of the award has been expanded to encompass other areas;",
+              "the award has been renamed because the common terminology changed;",
+              "or the award has become obsolete, such as the prizes for telegraphic reporting.",
+              "An example of a writing field that has been expanded was the former Pulitzer Prize for the Novel (awarded 1918\u20131947), which has been changed to the Pulitzer Prize for Fiction, which also includes short stories, novellas, novelettes, and poetry, as well as novels.",
+              "The nineteen-member Pulitzer Prize Board[25] convenes semi-annually, traditionally in the Joseph Pulitzer World Room at Columbia University's Pulitzer Hall.",
+              "It comprises major editors, columnists and media executives in addition to six members drawn from academia and the arts, including the president of Columbia University, the dean of the Columbia University Graduate School of Journalism and the administrator of the prizes, who serves as the board's secretary.",
+              "The administrator and the dean (who served on the board from its inception until 1954 and beginning again in 1976) participate in the deliberations as ex officio members, but cannot vote.",
+              "Aside from the president and dean (who serve as permanent members for the duration of their respective appointments) and the administrator (who is re-elected annually), the board elects its own members for a three-year term;",
+              "members may serve a maximum of three terms. Members of the board and the juries are selected with close attention \"given to professional excellence and affiliation, as well as diversity in terms of gender, ethnic background, geographical distribution and size of news organization.\"",
+              "Former Associated Press and Los Angeles Times editor Marjorie Miller was named administrator in April 2022.",
+              "[26] She succeeded former New York Times senior editor Dana Canedy, who served in the role from 2017 to 2020.",
+              "Canedy was the first woman and first person of color to hold the position.",
+              "[27][28] Edward Kliment, the program's longtime deputy administrator, was appointed acting administrator in July 2020 when Canedy became senior vice president and publisher of Simon & Schuster's flagship eponymous imprint.",
+              "[29] He chose not to contend for the position and returned to his previous role upon Miller's appointment.",
+              "[26] In addition to Canedy, past administrators include John Hohenberg (the youngest person to hold the position to date;",
+              "1954\u20131976), fellow Graduate School of Journalism professor Richard T.",
+              "Baker (1976\u20131981), former Newsweek executive editor Robert Christopher (1981\u20131992), former New York Times managing editor Seymour Topping (1993\u20132002), former Milwaukee Journal editor Sig Gissler (2002\u20132014) and former Concord Monitor editor Mike Pride (the only former board member to hold the position to date;",
+              "2014\u20132017).",
+              "Prior to the installation of Hohenberg, the program was jointly administered by members of the Journalism School's faculty (most notably longtime dean Carl W.",
+              "Ackerman) and officials in Columbia's central administration under the aegis of Frank D.",
+              "Fackenthal.",
+              "Following the retirement of Joseph Pulitzer Jr.",
+              "(a grandson of the endower who served as permanent chair of the board for 31 years) in 1986, the chair has typically rotated to the most senior member (or members, in the case of concurrent elections) on an annual basis.",
+              "[30] Since 1975, the board has made all prize decisions;",
+              "prior to this point, the board's recommendations were ratified by a majority vote of the trustees of Columbia University.",
+              "[31] Although the administrator's office and staff are housed alongside the Graduate School of Journalism at Columbia's Pulitzer Hall and several administrators have held concurrent full-time or adjunct faculty appointments at the Journalism School, the board and administration have been operationally separate from the school since 1950.",
+              "[32]: 121 Some critics of the Pulitzer Prize have accused the organization of favoring those who support liberal causes or oppose conservative causes.",
+              "Conservative columnist L.",
+              "Brent Bozell Jr.",
+              "said that the Pulitzer Prize has a \"liberal legacy\", particularly in its prize for commentary.",
+              "[59] He pointed to a 31-year period in which only five conservatives won prizes for commentary.",
+              "2010 Pulitzer Prize winner for commentary Kathleen Parker wrote, \"It's only because I'm a conservative basher that I'm now recognized.\"",
+              "[60] Alexander Theroux describes the Pulitzer Prize as \"an eminently silly award, [that] has often been handed out as a result of pull and political log-rolling, and that to some of the biggest frauds and fools alike.\"",
+              "[61] A 2012 academic study by journalism professors Yong Volz of the University of Missouri and Francis Lee of the Chinese University of Hong Kong found \"that only 27% of Pulitzer winners since 1991 were females, while newsrooms are about 33% female.\"",
+              "[62] The researchers concluded female winners were more likely to have traditional academic experience, such as attendance at Ivy League schools, metropolitan upbringing, or employment with an elite publication such as The New York Times.",
+              "The findings suggest a higher level of training and connectedness are required for a female applicant to be awarded the prize, compared to male counterparts.",
+              "[63]"
+            ]
+          },
+          {
+            "title": "Explore Winners and Finalists by Category - The Pulitzer Prizes",
+            "url": "https://www.pulitzer.org/prize-winners-categories",
+            "content": [
+              "Explore Winners and Finalists by Category - The Pulitzer Prizes",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          },
+          {
+            "title": "Frequently Asked Questions - The Pulitzer Prizes",
+            "url": "https://www.pulitzer.org/page/frequently-asked-questions",
+            "content": [
+              "Frequently Asked Questions - The Pulitzer Prizes",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          }
+        ],
+        "The Pulitzer Prize was established in 1917 by provisions in the will of American (Hungarian-born) Joseph Pulitzer who had made his fortune as a newspaper publisher.": [
+          {
+            "title": "Extracts from the Will of Joseph Pulitzer - The Pulitzer Prizes",
+            "url": "https://www.pulitzer.org/page/extracts-will-joseph-pulitzer",
+            "content": [
+              "Extracts from the Will of Joseph Pulitzer - The Pulitzer Prizes",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          },
+          {
+            "title": "History of The Pulitzer Prizes - The Pulitzer Prizes",
+            "url": "https://www.pulitzer.org/page/history-pulitzer-prizes",
+            "content": [
+              "History of The Pulitzer Prizes - The Pulitzer Prizes",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          },
+          {
+            "title": "Pulitzer Prize - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize",
+            "content": [
+              "Pulitzer Prize - Wikipedia",
+              "The Pulitzer Prize (/\u02c8p\u028al\u026ats\u0259r/[1]) is an award administered by Columbia University for achievements in newspaper, magazine, online journalism, literature, and musical composition within the United States.",
+              "It was established in 1917 by provisions in the will of Joseph Pulitzer, who had made his fortune as a newspaper publisher.",
+              "[2] As of 2023, prizes are awarded annually in twenty-three categories.",
+              "[3] In twenty-two of the categories, each winner receives a certificate and a US$15,000 cash award (raised from $10,000 in 2017).",
+              "[4] The winner in the public service category is awarded a gold medal.",
+              "[5][6] The Pulitzer Prize does not automatically consider all applicable works in the media, but only those that have specifically been entered.",
+              "(Each entry must be accompanied by a $75 handling fee.)",
+              "Entries must fit in at least one of the specific prize categories, and cannot simply gain entrance for being literary or musical.",
+              "Works can also be entered only in a maximum of two categories, regardless of their properties.",
+              "[7] Each year, more than 100 jurors are selected by the Pulitzer Prize Board to serve on 22 separate juries for the 23 award categories;",
+              "one jury makes recommendations for both photography awards.",
+              "Most juries consist of five members, except for those for Public Service, Investigative Reporting, Explanatory Reporting, Feature Writing, Commentary and Audio Reporting categories, which have seven members;",
+              "however, all book juries have five members.",
+              "[2] For each award category, a jury makes three nominations.",
+              "The board selects the winner by majority vote from the nominations, or bypasses the nominations and selects a different entry following a 75 percent majority vote.",
+              "The board can also vote to issue no award.",
+              "The board and journalism jurors are not paid for their work;",
+              "however, the jurors in letters, music, and drama receive honoraria for the year.",
+              "[2] Anyone whose work has been submitted is called an entrant.",
+              "The jury selects a group of nominated finalists and announces them, together with the winner for each category.",
+              "However, some journalists and authors who were only submitted, but not nominated as finalists, still claim to be Pulitzer nominees in promotional material.",
+              "The Pulitzer board has cautioned entrants against claiming to be nominees.",
+              "The Pulitzer Prize website's Frequently Asked Questions section describes their policy as follows: \"Nominated Finalists are selected by the Nominating Juries for each category as finalists in the competition.",
+              "The Pulitzer Prize Board generally selects the Pulitzer Prize Winners from the three nominated finalists in each category.",
+              "The names of nominated finalists have been announced only since 1980.",
+              "Work that has been submitted for Prize consideration but not chosen as either a nominated finalist or a winner is termed an entry or submission.",
+              "No information on entrants is provided.",
+              "Since 1980, when we began to announce nominated finalists, we have used the term 'nominee' for entrants who became finalists.",
+              "We discourage someone saying he or she was 'nominated' for a Pulitzer simply because an entry was sent to us.\"",
+              "[8] Bill Dedman of NBC News, the recipient of the 1989 investigative reporting prize, pointed out in 2012 that financial journalist Betty Liu was described as \"Pulitzer Prize\u2013Nominated\" in her Bloomberg Television advertising and the jacket of her book, while National Review writer Jonah Goldberg made similar claims of \"Pulitzer nomination\" to promote his books.",
+              "Dedman wrote, \"To call that submission a Pulitzer 'nomination' is like saying that Adam Sandler is an Oscar nominee if Columbia Pictures enters That's My Boy in the Academy Awards.",
+              "Many readers realize that the Oscars don't work that way\u2014the studios don't pick the nominees.",
+              "It's just a way of slipping 'Academy Awards' into a bio.",
+              "The Pulitzers also don't work that way, but fewer people know that.\"",
+              "[9] Nominally, the Pulitzer Prize for Public Service is awarded only to news organizations, not individuals.",
+              "In rare instances, contributors to the entry are singled out in the citation in a manner analogous to individual winners.",
+              "[10][11] Journalism awards may be awarded to individuals or newspapers or newspaper staffs;",
+              "infrequently, staff Prize citations also distinguish the work of prominent contributors.",
+              "[12] Newspaper publisher Joseph Pulitzer gave money in his will to Columbia University to launch a journalism school and establish the Pulitzer Prize.",
+              "It allocated $250,000 to the prize and scholarships.",
+              "[13] He specified \"four awards in journalism, four in letters and drama, one in education, and four traveling scholarships.\"",
+              "[2] After his death on October 29, 1911, the first Pulitzer Prizes were awarded June 4, 1917 (they are now announced in April).",
+              "The Chicago Tribune under the control of Colonel Robert R.",
+              "McCormick felt that the Pulitzer Prize was nothing more than a 'mutual admiration society' and not to be taken seriously;",
+              "the paper refused to compete for the prize during McCormick's tenure up until 1961.",
+              "[14][15] Awards are made in categories relating to journalism, arts, letters and fiction.",
+              "Reports and photographs by United States\u2013based newspapers, magazines and news organizations (including news websites) that \"[publish] regularly\"[16] are eligible for the journalism prize.",
+              "Beginning in 2007, \"an assortment of online elements will be permitted in all journalism categories except for the competition's two photography categories, which will continue to restrict entries to still images.\"",
+              "[17] In December 2008, it was announced that for the first time content published in online-only news sources would be considered.",
+              "[18] Although certain winners with magazine affiliations (most notably Moneta Sleet Jr.)",
+              "were allowed to enter the competition due to eligible partnerships or concurrent publication of their work in newspapers, the Pulitzer Prize Advisory Board and the Pulitzer Prize Board historically resisted the admission of magazines into the competition, resulting in the formation of the National Magazine Awards at the Columbia Journalism School in 1966.",
+              "In 2015, magazines were allowed to enter for the first time in two categories (Investigative Reporting and Feature Writing).",
+              "By 2016, this provision had expanded to three additional categories (International Reporting, Criticism and Editorial Cartooning).",
+              "[19] That year, Kathryn Schulz (Feature Writing) and Emily Nussbaum (Criticism) of The New Yorker became the first magazine affiliates to receive the prize under the expanded eligibility criterion.",
+              "[20] In October 2016, magazine eligibility was extended to all journalism categories.",
+              "[21] Hitherto confined to the local reporting of breaking news, the Breaking News Reporting category was expanded to encompass all domestic breaking news events in 2017.",
+              "[22] Definitions of Pulitzer Prize categories as presented in the December 2017 Plan of Award:[23] There are seven categories in letters and drama: In 2020, the Audio Reporting category was added.",
+              "The first prize in this category was awarded to \"The Out Crowd\", an episode of the public radio program This American Life.",
+              "In the second year, the Pulitzer was awarded for the NPR podcast No Compromise.",
+              "[24] There is one prize given for music: There have been dozens of Special Citations and Awards: more than ten each in Arts, Journalism, and Letters, and five for Pulitzer Prize service, most recently to Joseph Pulitzer, Jr.",
+              "in 1987.",
+              "In addition to the prizes, Pulitzer Travelling Fellowships are awarded to four outstanding students of the Graduate School of Journalism as selected by the faculty.",
+              "Over the years, awards have been discontinued either because the field of the award has been expanded to encompass other areas;",
+              "the award has been renamed because the common terminology changed;",
+              "or the award has become obsolete, such as the prizes for telegraphic reporting.",
+              "An example of a writing field that has been expanded was the former Pulitzer Prize for the Novel (awarded 1918\u20131947), which has been changed to the Pulitzer Prize for Fiction, which also includes short stories, novellas, novelettes, and poetry, as well as novels.",
+              "The nineteen-member Pulitzer Prize Board[25] convenes semi-annually, traditionally in the Joseph Pulitzer World Room at Columbia University's Pulitzer Hall.",
+              "It comprises major editors, columnists and media executives in addition to six members drawn from academia and the arts, including the president of Columbia University, the dean of the Columbia University Graduate School of Journalism and the administrator of the prizes, who serves as the board's secretary.",
+              "The administrator and the dean (who served on the board from its inception until 1954 and beginning again in 1976) participate in the deliberations as ex officio members, but cannot vote.",
+              "Aside from the president and dean (who serve as permanent members for the duration of their respective appointments) and the administrator (who is re-elected annually), the board elects its own members for a three-year term;",
+              "members may serve a maximum of three terms. Members of the board and the juries are selected with close attention \"given to professional excellence and affiliation, as well as diversity in terms of gender, ethnic background, geographical distribution and size of news organization.\"",
+              "Former Associated Press and Los Angeles Times editor Marjorie Miller was named administrator in April 2022.",
+              "[26] She succeeded former New York Times senior editor Dana Canedy, who served in the role from 2017 to 2020.",
+              "Canedy was the first woman and first person of color to hold the position.",
+              "[27][28] Edward Kliment, the program's longtime deputy administrator, was appointed acting administrator in July 2020 when Canedy became senior vice president and publisher of Simon & Schuster's flagship eponymous imprint.",
+              "[29] He chose not to contend for the position and returned to his previous role upon Miller's appointment.",
+              "[26] In addition to Canedy, past administrators include John Hohenberg (the youngest person to hold the position to date;",
+              "1954\u20131976), fellow Graduate School of Journalism professor Richard T.",
+              "Baker (1976\u20131981), former Newsweek executive editor Robert Christopher (1981\u20131992), former New York Times managing editor Seymour Topping (1993\u20132002), former Milwaukee Journal editor Sig Gissler (2002\u20132014) and former Concord Monitor editor Mike Pride (the only former board member to hold the position to date;",
+              "2014\u20132017).",
+              "Prior to the installation of Hohenberg, the program was jointly administered by members of the Journalism School's faculty (most notably longtime dean Carl W.",
+              "Ackerman) and officials in Columbia's central administration under the aegis of Frank D.",
+              "Fackenthal.",
+              "Following the retirement of Joseph Pulitzer Jr.",
+              "(a grandson of the endower who served as permanent chair of the board for 31 years) in 1986, the chair has typically rotated to the most senior member (or members, in the case of concurrent elections) on an annual basis.",
+              "[30] Since 1975, the board has made all prize decisions;",
+              "prior to this point, the board's recommendations were ratified by a majority vote of the trustees of Columbia University.",
+              "[31] Although the administrator's office and staff are housed alongside the Graduate School of Journalism at Columbia's Pulitzer Hall and several administrators have held concurrent full-time or adjunct faculty appointments at the Journalism School, the board and administration have been operationally separate from the school since 1950.",
+              "[32]: 121 Some critics of the Pulitzer Prize have accused the organization of favoring those who support liberal causes or oppose conservative causes.",
+              "Conservative columnist L.",
+              "Brent Bozell Jr.",
+              "said that the Pulitzer Prize has a \"liberal legacy\", particularly in its prize for commentary.",
+              "[59] He pointed to a 31-year period in which only five conservatives won prizes for commentary.",
+              "2010 Pulitzer Prize winner for commentary Kathleen Parker wrote, \"It's only because I'm a conservative basher that I'm now recognized.\"",
+              "[60] Alexander Theroux describes the Pulitzer Prize as \"an eminently silly award, [that] has often been handed out as a result of pull and political log-rolling, and that to some of the biggest frauds and fools alike.\"",
+              "[61] A 2012 academic study by journalism professors Yong Volz of the University of Missouri and Francis Lee of the Chinese University of Hong Kong found \"that only 27% of Pulitzer winners since 1991 were females, while newsrooms are about 33% female.\"",
+              "[62] The researchers concluded female winners were more likely to have traditional academic experience, such as attendance at Ivy League schools, metropolitan upbringing, or employment with an elite publication such as The New York Times.",
+              "The findings suggest a higher level of training and connectedness are required for a female applicant to be awarded the prize, compared to male counterparts.",
+              "[63]"
+            ]
+          }
+        ],
+        "The Pulitzer Prize has evolved over time since its inception in 1917.": [
+          {
+            "title": "Pulitzer officials expand eligibility in arts categories, letting some ...",
+            "url": "https://abcnews.go.com/US/wireStory/pulitzer-officials-expand-eligibility-arts-categories-us-citizens-103125967",
+            "content": [
+              "Pulitzer officials expand eligibility in arts categories, letting some ...",
+              "The Pulitzer Prize Board has revised its longtime rules on eligibility for many of its arts awards and will now allow those not born in the U.",
+              "S.",
+              "and other non-citizens to compete NEW YORK -- The Pulitzer Prize Board has revised its longtime rules on eligibility for many of its arts and letters awards and will now allow those not born in the U.",
+              "S.",
+              "and other non-citizens to compete.",
+              "The board announced Tuesday that permanent residents and those who have made the U.",
+              "S.",
+              "their longtime primary home will be eligible in the categories for books, drama and music.",
+              "The changes go into effect for the 2025 awards cycle, which begins next spring.",
+              "\u201cThe Board is enthusiastic about ensuring that the Prizes are inclusive and accessible to those producing distinguished work in Books, Drama and Music,\" board co-chairs Tommie Shelby and Neil Brown said in a statement.",
+              "\u201cThis expansion of eligibility is an appropriate update of our rules and compatible with the goals Joseph Pulitzer had in establishing these awards.",
+              "\u201d Last August, hundreds of writers endorsed an open letter calling for the Pulitzer board to permit non-U.",
+              "S.",
+              "citizens to compete.",
+              "Signers included Sandra Cisneros, Brit Bennett, Dave Eggers and Pulitzer winners Andrew Sean Greer and Diane Seuss.",
+              "Joseph Pulitzer founded the prizes in 1917 with a mission to honor \u201cAmerican\u201d journalism and literature.",
+              "Journalism prize judges already accept nominees of other nationalities, as long as the work was published in the U.",
+              "S.",
+              ", a requirement which also applies to the arts categories.",
+              "The new rules actually tighten eligibility for the history award, which previously could be written by authors of any nationality as long as they were about the U.",
+              "S.",
+              "\u201cFor the sake of consistency,\u201d the board decided, history will now have the same guidelines as those for books, dramas and music.",
+              "24/7 coverage of breaking news and live events"
+            ]
+          },
+          {
+            "title": "Pulitzer Prize Board Announces New Book Category",
+            "url": "https://www.pulitzer.org/news/pulitzer-prize-board-announces-new-book-category",
+            "content": [
+              "Pulitzer Prize Board Announces New Book Category",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          },
+          {
+            "title": "Pulitzer Prizes Expand Eligibility to Noncitizens - The New York Times",
+            "url": "https://www.nytimes.com/2023/09/12/books/pulitzer-prizes-eligibility-noncitizens.html",
+            "content": [
+              "Pulitzer Prizes Expand Eligibility to Noncitizens - The New York Times",
+              "Advertisement Supported by The jury for the memoir category had raised concerns that the citizenship requirement was excluding a large part of American culture.",
+              "By Alexandra Alter The board that administers the Pulitzer Prizes announced on Tuesday that it would expand eligibility for the awards to authors, playwrights and composers who are not U.",
+              "S.",
+              "citizens.",
+              "Most of the awards for books, drama and music had been open only to American citizens, but beginning with the 2025 prizes, the board will consider works by permanent and longtime residents of the United States.",
+              "Expanding the eligibility is a significant evolution for the Pulitzers, which were established in 1917 by the newspaper publisher Joseph Pulitzer, a Hungarian immigrant who emphasized that the prizes were intended to celebrate distinctly American works.",
+              "The journalism awards have long been open to people of all nationalities whose work is published by American media outlets.",
+              "But with the exception of the history prize, the literary categories, as well as the music and drama awards, have been limited to American citizens.",
+              "The board began discussing the possibility of expanding the eligibility in December, after the jury for the memoir category raised concerns that the citizenship requirement was excluding a large part of American culture, said Marjorie Miller, the administrator for the prizes.",
+              "When the jury members brought that issue before the board, she said, a consensus quickly formed that the criterion should be changed.",
+              "\u201cThis emphasizes the American nature of the work rather than the individual,\u201d Miller said.",
+              "\u201cYou can be American and write a book or play or a piece of music that is American without being a U.",
+              "S.",
+              "citizen.",
+              "\u201d The board is not setting firm boundaries of long-term and permanent residency, leaving the determination up to authors and publishers.",
+              "\u201cI think it\u2019s defined by the identity of the writer: Do you consider the United States your permanent home, and is this a work that in some regard would be considered American?",
+              "\u201d Miller said.",
+              "The decision was celebrated by artists and writers who have lobbied for the prize to be expanded.",
+              "\u201cWe\u2019re just beginning to recognize that migrant literature is American literature,\u201d said Ingrid Rojas Contreras, a Pulitzer finalist this year for her memoir, \u201cThe Man Who Could Move Clouds.",
+              "\u201d \u201cThe role that these prizes have in curating the literature we will read in the future is immense.",
+              "\u201d In August, a group of authors posted an open letter to the Pulitzer board and asked for the prize to be opened to immigrants and undocumented writers.",
+              "\u201cWhether undocumented writers are writing about the border or not, their voices are quintessentially part of what it means to belong and struggle to belong in this and to this nation,\u201d they wrote in the letter, which drew signatures from hundreds of writers, including Nana Kwame Adjei-Brenyah, Angie Cruz and Fatimah Asghar.",
+              "Javier Zamora, who signed the open letter, helped drive activism around the issue with an opinion essay he published in July in The Los Angeles Times, in which he lamented that his acclaimed memoir, \u201cSolito,\u201d was not eligible for a Pulitzer Prize because of the citizenship requirement.",
+              "In an interview, Zamora said he hoped the change would help expand definitions of the American literary canon to include more work by undocumented writers and immigrants.",
+              "\u201cThis tells them, \u2018Your story also matters \u2014 that your story could be part of a canon,\u2019\u201d he said.",
+              "The Pulitzers are the latest literary awards to redefine or expand their citizenship requirements.",
+              "The Academy of American Poets and the Poetry Foundation have both opened up their prizes to immigrants with temporary legal status.",
+              "The National Book Award and the PEN/Faulkner Award also opened their prizes to noncitizens.",
+              "When the first music Pulitzers were given, in the 1940s, the United States had become a haven for European artists \u2014 such as Arnold Schoenberg, Kurt Weill and Erich Wolfgang Korngold \u2014 who had emigrated in the shadow of fascism and World War II.",
+              "Despite their successes abroad, though, Pulitzers went largely to stalwarts of the American academy.",
+              "The citizenship change will expand the group of eligible composers to those who were born abroad and have settled in the United States;",
+              "Thomas Ade\u0300s, one of his generation\u2019s most celebrated composers, was born in London but lives in Los Angeles.",
+              "Some winners of the similarly prestigious, globally reaching Grawemeyer Award for Music Composition could also now be considered.",
+              "Joshua Barone contributed reporting.",
+              "An earlier version of a picture with this article was published in error.",
+              "The picture featured a statue of Thomas Jefferson.",
+              "How we handle corrections Alexandra Alter writes about publishing and the literary world.",
+              "Before joining The Times in 2014, she covered books and culture for The Wall Street Journal.",
+              "Prior to that, she reported on religion, and the occasional hurricane, for The Miami Herald.",
+              "More about Alexandra Alter Advertisement"
+            ]
+          }
+        ],
+        "Online-only publications have been allowed to enter some categories since 2009.": [
+          {
+            "title": "Pulitzer Prizes broadened to include online-only publications primarily ...",
+            "url": "https://www.pulitzer.org/news/pulitzer-prizes-broadened-include-online-only-publications-primarily-devoted-original-news-reporting",
+            "content": [
+              "Pulitzer Prizes broadened to include online-only publications primarily ...",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          },
+          {
+            "title": "2009 Pulitzer Prizes awarded - CNN.com",
+            "url": "https://www.cnn.com/2009/SHOWBIZ/04/20/pulitzer.prizes.winners/",
+            "content": [
+              "2009 Pulitzer Prizes awarded - CNN.com",
+              "(CNN) -- The Pulitzer Prize winners for 2009 were announced Monday, with The New York Times capturing five of the awards.",
+              "Writer Jon Meacham won a Pulitzer Prize in biography for \"American Lion: Andrew Jackson in the White House.\"",
+              "The Times garnered wins in the categories of breaking news reporting, investigative reporting, international reporting, criticism and feature photography.",
+              "In the international reporting category, The Times won for its reporting on the battles in Afghanistan and Pakistan.",
+              "In the arts, \"Olive Kitteridge\" by Elizabeth Strout won for fiction, \"Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II\" by Douglas A.",
+              "Blackmon won in the general nonfiction category, and \"American Lion: Andrew Jackson in the White House\" by Jon Meacham won for the category of biography.",
+              "Among the winners in journalism categories were the Las Vegas (Nevada) Sun for public service, the San Diego (California) Union-Tribune's Steve Breen for editorial cartooning and columnist Eugene Robinson of The Washington Post for commentary.",
+              "For the first time, all 14 Pulitzer journalism categories were open for competition from news organizations that publish only on the Internet.",
+              "Entirely online entries were previously permitted in only two categories: breaking news coverage and breaking news photography Since 2006, online content from newspaper Web sites had been permitted in all Pulitzer journalism categories, but online-only newspapers were not allowed to submit entries.",
+              "Despite the opportunity, there were no winners from online only news sites.",
+              "Web sites for print magazines and broadcast outlets are not eligible to enter, said Sig Gissler, administrator of the Pulitzer Prizes.",
+              "Amy Mitchell, deputy director for the Pew Research Center's Project for Excellence in Journalism, said that allowing online-only publications to apply for the prestigious award is recognition of the growing importance of online media.",
+              "\"Much of [media] comes from traditional press, but a lot is coming from non-traditional press as well, and that needs to be recognized along with what's being produced in traditional media,\" she said.",
+              "\"We've clearly hit a point now where we've seen the audience migration to the Web accelerate.\"",
+              "Mitchell said a survey of online journalists conducted by the Project for Excellence in Journalism found some concerns about the possibility of online reporting changing the fundamental values of journalism.",
+              "Those surveyed cited issues like a focus on speed and loss of accuracy as possible issues that could arise with journalism on the Web.",
+              "But with those concerns, Mitchell said, comes the opportunity to tell stories in a multidimensional way.",
+              "\"We see some tremendous reporting that could not exist in former modes of communication,\" she said, observing that media platforms such as text, photo galleries and video can not only be connected but be used to connect journalists to Internet users and Internet users to each other.",
+              "\"Those are tremendous changes,\" she said.",
+              "Robert M.",
+              "Steele, the Eugene S.",
+              "Pulliam Distinguished Visiting Professor of Journalism at DePauw University in Indiana, said the core values of accuracy and fairness have to be honored, no matter the method of reporting.",
+              "Still, Steele said, further opening the Pulitzer Prizes to online publications \"gives further weight to the role that digital journalism plays in this era.\"",
+              "\"In some ways, it's increased legitimacy for new forms of delivering journalism,\" Steele said.",
+              "\"It also heightens the discussion about the distinction between basic information and substantive journalism.",
+              "Just because somebody throws something online doesn't mean it is journalism.\"",
+              "David Plotz, editor of Slate, said his site did not apply for the Pulitzers despite what he believes was his publication's exceptional political, technology and business coverage.",
+              "\"We are not a hard-news site, and we don't do the kinds of stories and projects that have traditionally been awarded,\" Plotz said.",
+              "Plotz said the recognition for online journalism is more than warranted.",
+              "\"It's an overdue acknowledgement that some of the best journalism in the world and in America is being created not for print publication but for places that live entirely on the Web,\" he said.",
+              "\"There's so much of it that doesn't ever get into a print publication and yet is as important to shaping the debate and to changing how people think about things as to anything you might read in one of our great newspapers or magazines.\"",
+              "Pulitzer Prizes for journalism were also awarded to the following: Bettina Boxall and Julie Cart of the Los Angeles (California) Times for explanatory reporting;",
+              "the Detroit (Michigan) Free Press Staff, and notably Jim Schaefer and M.",
+              "L.",
+              "Elrick and Ryan Gabrielson and Paul Giblin of the East Valley (Arizona) Tribune for local reporting;",
+              "and the staff of the St.",
+              "Petersburg (Florida) Times for national reporting.",
+              "Also receiving awards were Lane DeGregory of the St.",
+              "Petersburg Times for feature writing;",
+              "Mark Mahoney of The Glens Falls (New York) Post-Star for editorial writing;",
+              "and Patrick Farrell of The Miami (Florida) Herald for breaking news photography.",
+              "In the arts, \"Ruined\" by Lynn Nottage won for drama;",
+              "\"The Hemingses of Monticello: An American Family\" by Annette Gordon-Reed won for history;",
+              "\"The Shadow of Sirius\" by W.",
+              "S.",
+              "Merwin won the poetry category;",
+              "\"Double Sextet\" by Steve Reich won for music.",
+              "E-mail to a friend Share this on: Mixx Facebook Twitter Digg del.",
+              "icio.",
+              "us reddit MySpace StumbleUpon | Mixx it | Share All About Pulitzer Prize Committee \u2022 Newspapers \u2022 Magazines"
+            ]
+          },
+          {
+            "title": "Pulitzer Prizes to Accept More Online Work - The New York Times",
+            "url": "https://www.nytimes.com/2008/12/10/business/media/10pulitzer.html",
+            "content": [
+              "Pulitzer Prizes to Accept More Online Work - The New York Times",
+              "Advertisement Supported by By Brian Stelter Bowing to the rapid rise of news distributed digitally rather than on paper, the Pulitzer Prizes will begin immediately accepting submissions from online-only publications.",
+              "The Pulitzers, administered by Columbia University, are widely regarded as the most prestigious awards for American newspaper reporting and commentary.",
+              "Beginning with the 2009 prizes, which cover work done in 2008 and which will be presented in April, Internet newspapers and other news organizations that publish online will be considered for all 14 of the journalism awards, from international reporting to criticism.",
+              "The deadline for submission for 2009 is Feb.",
+              "1.",
+              "\u201cThis is an important step forward, reflecting our continued commitment to American newspapers as well as our willingness to adapt to the remarkable growth of online journalism,\u201d Sig Gissler, the administrator of the prizes, said in a statement.",
+              "\u201cThe new rules enlarge the Pulitzer tent and recognize more fully the role of the Web, while underscoring the enduring value of words and of serious reporting.",
+              "\u201d The changes to the rules were approved in a board meeting last month.",
+              "The online publications must publish at least once a week and be \u201cprimarily dedicated to original news reporting and coverage of ongoing stories,\u201d according to the revised eligibility rules.",
+              "Web sites that exist primarily to aggregate news or post commentary will not be eligible, and decisions about eligibility will be made on a case-by-case basis, the board said.",
+              "Print magazines, television stations and their Web sites will remain excluded.",
+              "The Pulitzers began to accept submissions of print newspapers\u2019 online material in 1999, though only in the Public Service category.",
+              "All 14 categories began accepting online material in 2006.",
+              "In a post on Tuesday, Dan Gillmor, the director of the Center for Citizen Media, said the decision would open the prizes to journalists \u201cexcluded in the past due to the anachronistic system that had ruled.",
+              "\u201d An article on Dec.",
+              "10 about a decision by the Pulitzer Prize Board to accept submissions from online-only publications misstated the year that the Pulitzer board first accepted online material from newspapers.",
+              "It was 1999 (though only in the Public Service category), not 2006.",
+              "The article also misstated the number of categories that began accepting online material in 2006.",
+              "It was all 14 categories \u0097 not just two breaking news categories.",
+              "(Those two categories were the only ones that did not require at least one print exhibit.)",
+              "How we handle corrections Advertisement"
+            ]
+          }
+        ],
+        "Magazines and magazine websites have been allowed to enter some categories since 2016.": [
+          {
+            "title": "Pulitzer Prizes expand eligibility in Feature and Investigative Categories",
+            "url": "https://www.pulitzer.org/news/pulitzer-prizes-expand-eligibility-feature-and-investigative-categories",
+            "content": [
+              "Pulitzer Prizes expand eligibility in Feature and Investigative Categories",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          },
+          {
+            "title": "Pulitzer Prizes expand eligibility in feature and investigative categories",
+            "url": "https://www.snpa.org/stories/pulitzer-prizes-expand-eligibility-in-feature-and-investigative-categories,55451",
+            "content": [
+              "Pulitzer Prizes expand eligibility in feature and investigative categories",
+              "The Pulitzer Prizes in journalism, which honor the work of American newspapers and news sites, have expanded eligibility for two prize categories, Investigative Reporting and Feature Writing, to include many online and print magazines, the Pulitzer Prize Board announced.",
+              "The Board has also amended its rules regarding partnerships.",
+              "Alongside their own employees, eligible news organizations will now be allowed to nominate journalists employed by partnering organizations even if those organizations are themselves ineligible to compete for Pulitzer Prizes.",
+              "\"Joseph Pulitzer created the Pulitzer Prizes to honor excellence and public service in American journalism, arts and letters,\" said Danielle Allen, chair of the Pulitzer Prize Board.",
+              "\"Historically there has been an emphasis on the written word.",
+              "Media convergence has generated exciting new possibilities for journalism.",
+              "We recognize that great reporting and writing is today reaching American audiences in new formats and new channels.",
+              "We support efforts to use cross-media partnerships, new platforms and new tools to strengthen the cause of journalism.",
+              "\"After a considered review and discussion, we are adopting these changes in a spirit of experimentation, rooted in a commitment to the enduring values of great journalism.",
+              "We have chosen to focus our evolution on investigative reporting because of its relevance to public life and feature writing because of its emphasis on literary merit.\"",
+              "While broadening the competition, the Board stressed that all entered material should come from United States newspapers or news organizations that publish at least weekly, that are \"primarily dedicated to original news reporting and coverage of ongoing stories,\" and that \"adhere to the highest journalistic principles.\"",
+              "Under this description, magazines and their websites are now eligible in two categories.",
+              "Broadcast organizations and their websites continue to be ineligible.",
+              "Consistent with its historical focus on text-based journalism, the Board will continue to place emphasis on the enduring value of words and of serious reporting, while also recognizing the opportunity provided by the web for integration of text with audio and visual elements to strengthen story-telling and provide information and analysis.",
+              "\"Pulitzer's aim was the progress and elevation of journalism,\" said Pulitzer Prize Administrator Mike Pride.",
+              "\"He envisioned that future generations would make changes in the Plan of Award for the prizes that are 'conducive to the public good or rendered advisable by public necessities, or by reason of change of time.'",
+              "Increasingly, online and print magazines have expanded their mission.",
+              "It's time to enlarge the tent again.\"",
+              "Previously, the Pulitzer Prize competition barred media that identified themselves as magazines, either in print or on the web.",
+              "The decision to allow them to enter two prize categories followed the Pulitzer Prize Board's recognition that many magazines, digital and print, have newly entered the realm of daily and weekly journalism.",
+              "On the question of partnerships, the Board eased its rules in light of the growing number of joint journalistic projects being undertaken by newsrooms, and the value of these partnerships to high quality journalism.",
+              "The Board adopted the changes at its November meeting at Columbia University after a lengthy study by a Board committee.",
+              "The Board will continue to monitor the impact of media convergence on journalism.",
+              "The entry site for journalism published during 2014 will open on Friday, Dec.",
+              "12.",
+              "The revised rules for the Investigative Reporting and Feature Writing categories are available in the Plan of Award and individual category explanations on the Pulitzer Prize website.",
+              "No comments on this item Please log in to comment by clicking here"
+            ]
+          },
+          {
+            "title": "Q &amp; A on Category Changes - The Pulitzer Prizes",
+            "url": "https://www.pulitzer.org/page/q-category-changes",
+            "content": [
+              "Q &amp; A on Category Changes - The Pulitzer Prizes",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          }
+        ],
+        "Books that are self-published or published by non-traditional publishers have been allowed to enter some categories since 2017.": [
+          {
+            "title": "Books Submission FAQ, Guidelines and Requirements - Pulitzer",
+            "url": "https://www.pulitzer.org/page/books-submission-faq-guidelines-and-requirements",
+            "content": [
+              "Books Submission FAQ, Guidelines and Requirements - Pulitzer",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          },
+          {
+            "title": "Frequently Asked Questions - The Pulitzer Prizes",
+            "url": "https://www.pulitzer.org/page/frequently-asked-questions",
+            "content": [
+              "Frequently Asked Questions - The Pulitzer Prizes",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          },
+          {
+            "title": "Pulitzer Prize Board Amending Citizenship Requirement in Books, Drama ...",
+            "url": "https://www.pulitzer.org/news/pulitzer-prize-board-amending-citizenship-requirement-books-drama-and-music",
+            "content": [
+              "Pulitzer Prize Board Amending Citizenship Requirement in Books, Drama ...",
+              "Honoring Excellence in Journalism and the Arts Honoring excellence in journalism and the arts since 1917 {{getWatchers().",
+              "length}}"
+            ]
+          }
+        ]
+      },
+      "evidence": {
+        "The Pulitzer Prize is an award for achievements in newspaper, magazine and online journalism, literature, and musical composition in the United States.": [
+          "The Pulitzer Prize (/\u02c8p\u028al\u026ats\u0259r/[1]) is an award administered by Columbia University for achievements in newspaper, magazine, online journalism, literature, and musical composition within the United States.",
+          "It was established in 1917 by provisions in the will of Joseph Pulitzer, who had made his fortune as a newspaper publisher."
+        ],
+        "The Pulitzer Prize was established in 1917 by provisions in the will of American (Hungarian-born) Joseph Pulitzer who had made his fortune as a newspaper publisher.": [
+          "It was established in 1917 by provisions in the will of Joseph Pulitzer, who had made his fortune as a newspaper publisher.",
+          "Newspaper publisher Joseph Pulitzer gave money in his will to Columbia University to launch a journalism school and establish the Pulitzer Prize.",
+          "It allocated $250,000 to the prize and scholarships.",
+          "He specified \"four awards in journalism, four in letters and drama, one in education, and four traveling scholarships.\"",
+          "After his death on October 29, 1911, the first Pulitzer Prizes were awarded June 4, 1917 (they are now announced in April)."
+        ],
+        "The Pulitzer Prize has evolved over time since its inception in 1917.": [
+          "Journalism prize judges already accept nominees of other nationalities, as long as the work was published in the U.",
+          "The board that administers the Pulitzer Prizes announced on Tuesday that it would expand eligibility for the awards to authors, playwrights and composers who are not U.",
+          "The Pulitzer Prize Board has revised its longtime rules on eligibility for many of its arts awards and will now allow those not born in the U.",
+          "The journalism awards have long been open to people of all nationalities whose work is published by American media outlets.",
+          "Expanding the eligibility is a significant evolution for the Pulitzers, which were established in 1917 by the newspaper publisher Joseph Pulitzer, a Hungarian immigrant who emphasized that the prizes were intended to celebrate distinctly American works.",
+          "The board began discussing the possibility of expanding the eligibility in December, after the jury for the memoir category raised concerns that the citizenship requirement was excluding a large part of American culture, said Marjorie Miller, the administrator for the prizes.",
+          "The changes go into effect for the 2025 awards cycle, which begins next spring."
+        ],
+        "Online-only publications have been allowed to enter some categories since 2009.": [
+          "Advertisement Supported by By Brian Stelter Bowing to the rapid rise of news distributed digitally rather than on paper, the Pulitzer Prizes will begin immediately accepting submissions from online-only publications.",
+          "The Pulitzers, administered by Columbia University, are widely regarded as the most prestigious awards for American newspaper reporting and commentary.",
+          "Beginning with the 2009 prizes, which cover work done in 2008 and which will be presented in April, Internet newspapers and other news organizations that publish online will be considered for all 14 of the journalism awards, from international reporting to criticism."
+        ],
+        "Magazines and magazine websites have been allowed to enter some categories since 2016.": [
+          "While broadening the competition, the Board stressed that all entered material should come from United States newspapers or news organizations that publish at least weekly, that are \"primarily dedicated to original news reporting and coverage of ongoing stories,\" and that \"adhere to the highest journalistic principles.\"",
+          "Under this description, magazines and their websites are now eligible in two categories.",
+          "The decision to allow them to enter two prize categories followed the Pulitzer Prize Board's recognition that many magazines, digital and print, have newly entered the realm of daily and weekly journalism."
+        ],
+        "Books that are self-published or published by non-traditional publishers have been allowed to enter some categories since 2017.": []
+      },
+      "subconclusions": {
+        "The Pulitzer Prize is an award for achievements in newspaper, magazine and online journalism, literature, and musical composition in the United States.": "supported",
+        "The Pulitzer Prize was established in 1917 by provisions in the will of American (Hungarian-born) Joseph Pulitzer who had made his fortune as a newspaper publisher.": "supported",
+        "The Pulitzer Prize has evolved over time since its inception in 1917.": "supported",
+        "Online-only publications have been allowed to enter some categories since 2009.": "supported",
+        "Magazines and magazine websites have been allowed to enter some categories since 2016.": "partially supported",
+        "Books that are self-published or published by non-traditional publishers have been allowed to enter some categories since 2017.": "not supported"
+      }
+    }
+  }
+}
